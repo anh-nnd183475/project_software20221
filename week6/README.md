@@ -3,7 +3,7 @@
 ### Basic Javascript course:
 link: https://www.freecodecamp.org/anh-nnd183475
 
-img:
+
 ![plot](./Image/JScourse.png)
 
 ### ES6:
